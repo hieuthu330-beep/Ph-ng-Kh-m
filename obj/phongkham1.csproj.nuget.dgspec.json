@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\hieuthu330-beep\\Ph-ng-Kh-m\\phongkham1.csproj": {}
+    "D:\\Phòng khám tư nhân\\phongkham1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\hieuthu330-beep\\Ph-ng-Kh-m\\phongkham1.csproj": {
+    "D:\\Phòng khám tư nhân\\phongkham1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\hieuthu330-beep\\Ph-ng-Kh-m\\phongkham1.csproj",
+        "projectUniqueName": "D:\\Phòng khám tư nhân\\phongkham1.csproj",
         "projectName": "phongkham1",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\hieuthu330-beep\\Ph-ng-Kh-m\\phongkham1.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\hieuthu330-beep\\Ph-ng-Kh-m\\obj\\",
+        "projectPath": "D:\\Phòng khám tư nhân\\phongkham1.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\Phòng khám tư nhân\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

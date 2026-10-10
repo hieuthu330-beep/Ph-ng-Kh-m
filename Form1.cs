@@ -29,9 +29,7 @@ namespace phongkham1
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            FormMain form = new FormMain();
-            form.Show();
-            this.Hide();
+           
         }
     }
 }

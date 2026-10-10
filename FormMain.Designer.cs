@@ -252,7 +252,7 @@
             panel1.Dock = DockStyle.Top;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
-            panel1.Size = new Size(1924, 100);
+            panel1.Size = new Size(1684, 85);
             panel1.TabIndex = 0;
             // 
             // label80
@@ -260,9 +260,9 @@
             label80.AutoSize = true;
             label80.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label80.ForeColor = Color.FromArgb(0, 106, 97);
-            label80.Location = new Point(94, 52);
+            label80.Location = new Point(82, 44);
             label80.Name = "label80";
-            label80.Size = new Size(134, 20);
+            label80.Size = new Size(130, 19);
             label80.TabIndex = 10;
             label80.Text = "CLINIC & WELLNESS";
             // 
@@ -271,9 +271,9 @@
             button7.FlatAppearance.BorderSize = 0;
             button7.FlatStyle = FlatStyle.Flat;
             button7.Image = (Image)resources.GetObject("button7.Image");
-            button7.Location = new Point(1844, 24);
+            button7.Location = new Point(1614, 20);
             button7.Name = "button7";
-            button7.Size = new Size(42, 40);
+            button7.Size = new Size(37, 34);
             button7.TabIndex = 9;
             button7.UseVisualStyleBackColor = true;
             // 
@@ -282,9 +282,9 @@
             button6.FlatAppearance.BorderSize = 0;
             button6.FlatStyle = FlatStyle.Flat;
             button6.Image = (Image)resources.GetObject("button6.Image");
-            button6.Location = new Point(1702, 24);
+            button6.Location = new Point(1489, 20);
             button6.Name = "button6";
-            button6.Size = new Size(123, 44);
+            button6.Size = new Size(108, 37);
             button6.TabIndex = 8;
             button6.UseVisualStyleBackColor = true;
             // 
@@ -294,9 +294,9 @@
             button5.FlatAppearance.BorderSize = 0;
             button5.FlatStyle = FlatStyle.Flat;
             button5.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold);
-            button5.Location = new Point(1364, 36);
+            button5.Location = new Point(1194, 31);
             button5.Name = "button5";
-            button5.Size = new Size(167, 29);
+            button5.Size = new Size(146, 25);
             button5.TabIndex = 7;
             button5.Text = "Lịch hẹn của tôi";
             button5.UseVisualStyleBackColor = true;
@@ -307,9 +307,9 @@
             button4.FlatAppearance.BorderSize = 0;
             button4.FlatStyle = FlatStyle.Flat;
             button4.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold);
-            button4.Location = new Point(1137, 36);
+            button4.Location = new Point(995, 31);
             button4.Name = "button4";
-            button4.Size = new Size(152, 29);
+            button4.Size = new Size(133, 25);
             button4.TabIndex = 6;
             button4.Text = "Đội ngũ bác sĩ";
             button4.UseVisualStyleBackColor = true;
@@ -320,9 +320,9 @@
             button3.FlatAppearance.BorderSize = 0;
             button3.FlatStyle = FlatStyle.Flat;
             button3.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold);
-            button3.Location = new Point(901, 36);
+            button3.Location = new Point(788, 31);
             button3.Name = "button3";
-            button3.Size = new Size(157, 29);
+            button3.Size = new Size(137, 25);
             button3.TabIndex = 5;
             button3.Text = "Chuyên khoa";
             button3.UseVisualStyleBackColor = true;
@@ -333,9 +333,9 @@
             button2.FlatAppearance.BorderSize = 0;
             button2.FlatStyle = FlatStyle.Flat;
             button2.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold);
-            button2.Location = new Point(702, 36);
+            button2.Location = new Point(614, 31);
             button2.Name = "button2";
-            button2.Size = new Size(94, 29);
+            button2.Size = new Size(82, 25);
             button2.TabIndex = 4;
             button2.Text = "Giới thiệu";
             button2.UseVisualStyleBackColor = true;
@@ -346,9 +346,9 @@
             button1.FlatAppearance.BorderSize = 0;
             button1.FlatStyle = FlatStyle.Flat;
             button1.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold);
-            button1.Location = new Point(532, 36);
+            button1.Location = new Point(466, 31);
             button1.Name = "button1";
-            button1.Size = new Size(94, 29);
+            button1.Size = new Size(82, 25);
             button1.TabIndex = 3;
             button1.Text = "Trang chủ";
             button1.UseVisualStyleBackColor = true;
@@ -364,7 +364,7 @@
             label1.ImageAlign = ContentAlignment.MiddleLeft;
             label1.Location = new Point(0, 0);
             label1.Name = "label1";
-            label1.Size = new Size(290, 54);
+            label1.Size = new Size(260, 48);
             label1.TabIndex = 2;
             label1.Text = "       EcoHealth";
             // 
@@ -389,9 +389,9 @@
             panel2.Controls.Add(panel4);
             panel2.Controls.Add(panel3);
             panel2.Dock = DockStyle.Fill;
-            panel2.Location = new Point(0, 100);
+            panel2.Location = new Point(0, 85);
             panel2.Name = "panel2";
-            panel2.Size = new Size(1924, 955);
+            panel2.Size = new Size(1684, 812);
             panel2.TabIndex = 1;
             // 
             // panel9
@@ -411,9 +411,9 @@
             panel9.Controls.Add(label65);
             panel9.Controls.Add(label64);
             panel9.Dock = DockStyle.Bottom;
-            panel9.Location = new Point(0, 3019);
+            panel9.Location = new Point(0, 2567);
             panel9.Name = "panel9";
-            panel9.Size = new Size(1903, 360);
+            panel9.Size = new Size(1665, 306);
             panel9.TabIndex = 0;
             // 
             // siticonePanel20
@@ -449,7 +449,7 @@
     0.5F,
     1F
     };
-            siticonePanel20.Location = new Point(1423, 79);
+            siticonePanel20.Location = new Point(1245, 67);
             siticonePanel20.Name = "siticonePanel20";
             siticonePanel20.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel20.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -459,7 +459,7 @@
             siticonePanel20.RippleMaxSize = 600F;
             siticonePanel20.RippleSpeed = 15F;
             siticonePanel20.ShowBorder = true;
-            siticonePanel20.Size = new Size(384, 176);
+            siticonePanel20.Size = new Size(336, 150);
             siticonePanel20.TabIndex = 10;
             siticonePanel20.TabStop = true;
             siticonePanel20.UseBorderGradient = false;
@@ -471,9 +471,9 @@
             // 
             label79.AutoSize = true;
             label79.ForeColor = Color.FromArgb(63, 72, 80);
-            label79.Location = new Point(24, 118);
+            label79.Location = new Point(21, 100);
             label79.Name = "label79";
-            label79.Size = new Size(306, 40);
+            label79.Size = new Size(271, 34);
             label79.TabIndex = 9;
             label79.Text = "Tổng đài tư vấn và tiếp nhận bệnh nhân khẩn\ncấp trực tiếp";
             // 
@@ -482,9 +482,9 @@
             label78.AutoSize = true;
             label78.Font = new Font("Segoe UI", 24F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label78.ForeColor = Color.FromArgb(186, 26, 26);
-            label78.Location = new Point(5, 51);
+            label78.Location = new Point(4, 43);
             label78.Name = "label78";
-            label78.Size = new Size(207, 54);
+            label78.Size = new Size(188, 48);
             label78.TabIndex = 9;
             label78.Text = "10000000";
             // 
@@ -495,9 +495,9 @@
             label73.ForeColor = Color.FromArgb(186, 26, 26);
             label73.Image = (Image)resources.GetObject("label73.Image");
             label73.ImageAlign = ContentAlignment.MiddleLeft;
-            label73.Location = new Point(13, 14);
+            label73.Location = new Point(11, 12);
             label73.Name = "label73";
-            label73.Size = new Size(128, 20);
+            label73.Size = new Size(121, 19);
             label73.TabIndex = 9;
             label73.Text = "    CẤP CỨU 24/7";
             // 
@@ -505,9 +505,9 @@
             // 
             label72.AutoSize = true;
             label72.ForeColor = Color.FromArgb(63, 72, 80);
-            label72.Location = new Point(471, 181);
+            label72.Location = new Point(412, 154);
             label72.Name = "label72";
-            label72.Size = new Size(187, 20);
+            label72.Size = new Size(164, 17);
             label72.TabIndex = 8;
             label72.Text = "Bảng giá dịch vụ công khai";
             // 
@@ -517,9 +517,9 @@
             label77.ForeColor = Color.FromArgb(63, 72, 80);
             label77.Image = (Image)resources.GetObject("label77.Image");
             label77.ImageAlign = ContentAlignment.MiddleLeft;
-            label77.Location = new Point(903, 197);
+            label77.Location = new Point(790, 167);
             label77.Name = "label77";
-            label77.Size = new Size(210, 20);
+            label77.Size = new Size(184, 17);
             label77.TabIndex = 7;
             label77.Text = "    Tiepnhan10110@gmail.com";
             // 
@@ -529,9 +529,9 @@
             label76.ForeColor = Color.FromArgb(63, 72, 80);
             label76.Image = (Image)resources.GetObject("label76.Image");
             label76.ImageAlign = ContentAlignment.TopLeft;
-            label76.Location = new Point(901, 144);
+            label76.Location = new Point(788, 122);
             label76.Name = "label76";
-            label76.Size = new Size(309, 40);
+            label76.Size = new Size(278, 34);
             label76.TabIndex = 7;
             label76.Text = "    Thứ 2 - Chủ Nhật: 07:30 - 20:00 (Kể cả ngày\n    lễ)";
             // 
@@ -541,9 +541,9 @@
             label75.ForeColor = Color.FromArgb(63, 72, 80);
             label75.Image = (Image)resources.GetObject("label75.Image");
             label75.ImageAlign = ContentAlignment.TopLeft;
-            label75.Location = new Point(901, 96);
+            label75.Location = new Point(788, 82);
             label75.Name = "label75";
-            label75.Size = new Size(327, 40);
+            label75.Size = new Size(289, 34);
             label75.TabIndex = 7;
             label75.Text = "    Số 126 Đường Hoàng Hoa Thám, Ba Đình, Hà\n    Nội";
             label75.TextAlign = ContentAlignment.MiddleLeft;
@@ -552,9 +552,9 @@
             // 
             label71.AutoSize = true;
             label71.ForeColor = Color.FromArgb(63, 72, 80);
-            label71.Location = new Point(470, 79);
+            label71.Location = new Point(411, 67);
             label71.Name = "label71";
-            label71.Size = new Size(185, 20);
+            label71.Size = new Size(163, 17);
             label71.TabIndex = 7;
             label71.Text = "Các chuyên khoa mũi nhọn";
             // 
@@ -562,9 +562,9 @@
             // 
             label70.AutoSize = true;
             label70.ForeColor = Color.FromArgb(63, 72, 80);
-            label70.Location = new Point(471, 144);
+            label70.Location = new Point(412, 122);
             label70.Name = "label70";
-            label70.Size = new Size(163, 20);
+            label70.Size = new Size(144, 17);
             label70.TabIndex = 6;
             label70.Text = "Quy trình đặt hẹn khám";
             // 
@@ -572,9 +572,9 @@
             // 
             label69.AutoSize = true;
             label69.ForeColor = Color.FromArgb(63, 72, 80);
-            label69.Location = new Point(471, 112);
+            label69.Location = new Point(412, 95);
             label69.Name = "label69";
-            label69.Size = new Size(187, 20);
+            label69.Size = new Size(164, 17);
             label69.TabIndex = 5;
             label69.Text = "Tìm kiếm bác sĩ chuyên gia";
             // 
@@ -584,9 +584,9 @@
             label67.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label67.Image = (Image)resources.GetObject("label67.Image");
             label67.ImageAlign = ContentAlignment.MiddleLeft;
-            label67.Location = new Point(63, 197);
+            label67.Location = new Point(55, 167);
             label67.Name = "label67";
-            label67.Size = new Size(302, 20);
+            label67.Size = new Size(285, 19);
             label67.TabIndex = 3;
             label67.Text = "      Bộ Y Tế Cấp Phép Số: 08842/BYT-CCHN";
             // 
@@ -594,9 +594,9 @@
             // 
             label74.AutoSize = true;
             label74.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label74.Location = new Point(925, 42);
+            label74.Location = new Point(809, 36);
             label74.Name = "label74";
-            label74.Size = new Size(161, 23);
+            label74.Size = new Size(148, 21);
             label74.TabIndex = 2;
             label74.Text = "Thông tin vận hành";
             // 
@@ -604,9 +604,9 @@
             // 
             label68.AutoSize = true;
             label68.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label68.Location = new Point(1525, 42);
+            label68.Location = new Point(1334, 36);
             label68.Name = "label68";
-            label68.Size = new Size(135, 23);
+            label68.Size = new Size(126, 21);
             label68.TabIndex = 2;
             label68.Text = "Hỗ trợ khẩn cấp";
             // 
@@ -614,9 +614,9 @@
             // 
             label66.AutoSize = true;
             label66.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label66.Location = new Point(496, 42);
+            label66.Location = new Point(434, 36);
             label66.Name = "label66";
-            label66.Size = new Size(124, 23);
+            label66.Size = new Size(115, 21);
             label66.TabIndex = 2;
             label66.Text = "Liên kết nhanh";
             // 
@@ -624,9 +624,9 @@
             // 
             label65.AutoSize = true;
             label65.ForeColor = Color.FromArgb(63, 72, 80);
-            label65.Location = new Point(62, 96);
+            label65.Location = new Point(54, 82);
             label65.Name = "label65";
-            label65.Size = new Size(352, 60);
+            label65.Size = new Size(311, 51);
             label65.TabIndex = 1;
             label65.Text = "Hệ thống phòng khám đa khoa tiêu chuẩn quốc tế\nmang lại trải nghiệm y tế số hiện đại, an toàn và tận\ntâm nhất cho người bệnh.";
             // 
@@ -637,18 +637,18 @@
             label64.ForeColor = Color.FromArgb(0, 97, 148);
             label64.Image = (Image)resources.GetObject("label64.Image");
             label64.ImageAlign = ContentAlignment.MiddleLeft;
-            label64.Location = new Point(62, 42);
+            label64.Location = new Point(54, 36);
             label64.Name = "label64";
-            label64.Size = new Size(231, 31);
+            label64.Size = new Size(214, 30);
             label64.TabIndex = 0;
             label64.Text = "       EcoHealth Clinic";
             // 
             // panel8
             // 
             panel8.BackColor = Color.White;
-            panel8.Location = new Point(0, 2983);
+            panel8.Location = new Point(0, 2536);
             panel8.Name = "panel8";
-            panel8.Size = new Size(1903, 36);
+            panel8.Size = new Size(1665, 31);
             panel8.TabIndex = 16;
             // 
             // siticonePanel18
@@ -685,7 +685,7 @@
     0.5F,
     1F
     };
-            siticonePanel18.Location = new Point(1184, 2715);
+            siticonePanel18.Location = new Point(1036, 2308);
             siticonePanel18.Name = "siticonePanel18";
             siticonePanel18.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel18.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -695,7 +695,7 @@
             siticonePanel18.RippleMaxSize = 600F;
             siticonePanel18.RippleSpeed = 15F;
             siticonePanel18.ShowBorder = true;
-            siticonePanel18.Size = new Size(615, 88);
+            siticonePanel18.Size = new Size(538, 75);
             siticonePanel18.TabIndex = 15;
             siticonePanel18.TabStop = true;
             siticonePanel18.UseBorderGradient = false;
@@ -734,7 +734,7 @@
     0.5F,
     1F
     };
-            siticonePanel19.Location = new Point(341, 12);
+            siticonePanel19.Location = new Point(298, 10);
             siticonePanel19.Name = "siticonePanel19";
             siticonePanel19.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel19.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -744,7 +744,7 @@
             siticonePanel19.RippleMaxSize = 600F;
             siticonePanel19.RippleSpeed = 15F;
             siticonePanel19.ShowBorder = true;
-            siticonePanel19.Size = new Size(247, 59);
+            siticonePanel19.Size = new Size(216, 50);
             siticonePanel19.TabIndex = 3;
             siticonePanel19.TabStop = true;
             siticonePanel19.UseBorderGradient = false;
@@ -757,16 +757,16 @@
             label57.AutoSize = true;
             label57.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label57.ForeColor = Color.White;
-            label57.Location = new Point(42, 19);
+            label57.Location = new Point(37, 16);
             label57.Name = "label57";
-            label57.Size = new Size(169, 20);
+            label57.Size = new Size(164, 19);
             label57.TabIndex = 0;
             label57.Text = "vui lòng gọi cho số này";
             // 
             // pictureBox20
             // 
             pictureBox20.Image = (Image)resources.GetObject("pictureBox20.Image");
-            pictureBox20.Location = new Point(22, 23);
+            pictureBox20.Location = new Point(19, 20);
             pictureBox20.Name = "pictureBox20";
             pictureBox20.Size = new Size(48, 48);
             pictureBox20.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -777,9 +777,9 @@
             // 
             label56.AutoSize = true;
             label56.Font = new Font("Segoe UI", 19.8000011F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label56.Location = new Point(88, 32);
+            label56.Location = new Point(77, 27);
             label56.Name = "label56";
-            label56.Size = new Size(180, 46);
+            label56.Size = new Size(154, 41);
             label56.TabIndex = 1;
             label56.Text = "10000000";
             // 
@@ -788,16 +788,16 @@
             label55.AutoSize = true;
             label55.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label55.ForeColor = Color.FromArgb(186, 26, 26);
-            label55.Location = new Point(81, 12);
+            label55.Location = new Point(71, 10);
             label55.Name = "label55";
-            label55.Size = new Size(196, 20);
+            label55.Size = new Size(186, 19);
             label55.TabIndex = 0;
             label55.Text = "TỔNG ĐÀI TIẾP NHẬN 24/7";
             // 
             // pictureBox19
             // 
             pictureBox19.Image = (Image)resources.GetObject("pictureBox19.Image");
-            pictureBox19.Location = new Point(1184, 2428);
+            pictureBox19.Location = new Point(1036, 2064);
             pictureBox19.Name = "pictureBox19";
             pictureBox19.Size = new Size(618, 266);
             pictureBox19.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -845,7 +845,7 @@
     0.5F,
     1F
     };
-            siticonePanel17.Location = new Point(63, 2398);
+            siticonePanel17.Location = new Point(55, 2038);
             siticonePanel17.Name = "siticonePanel17";
             siticonePanel17.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel17.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -855,7 +855,7 @@
             siticonePanel17.RippleMaxSize = 600F;
             siticonePanel17.RippleSpeed = 15F;
             siticonePanel17.ShowBorder = true;
-            siticonePanel17.Size = new Size(847, 552);
+            siticonePanel17.Size = new Size(741, 469);
             siticonePanel17.TabIndex = 13;
             siticonePanel17.TabStop = true;
             siticonePanel17.UseBorderGradient = false;
@@ -872,9 +872,9 @@
             button22.ForeColor = Color.White;
             button22.Image = (Image)resources.GetObject("button22.Image");
             button22.ImageAlign = ContentAlignment.MiddleLeft;
-            button22.Location = new Point(290, 475);
+            button22.Location = new Point(254, 404);
             button22.Name = "button22";
-            button22.Size = new Size(249, 43);
+            button22.Size = new Size(218, 37);
             button22.TabIndex = 0;
             button22.Text = "Gửi thông tin tư vấn";
             button22.UseVisualStyleBackColor = false;
@@ -882,39 +882,39 @@
             // textBox4
             // 
             textBox4.BackColor = Color.FromArgb(234, 237, 255);
-            textBox4.Location = new Point(452, 195);
+            textBox4.Location = new Point(396, 166);
             textBox4.Multiline = true;
             textBox4.Name = "textBox4";
             textBox4.PlaceholderText = "0912 345 678";
-            textBox4.Size = new Size(248, 37);
+            textBox4.Size = new Size(218, 32);
             textBox4.TabIndex = 10;
             // 
             // textBox3
             // 
             textBox3.BackColor = Color.FromArgb(234, 237, 255);
-            textBox3.Location = new Point(65, 195);
+            textBox3.Location = new Point(57, 166);
             textBox3.Multiline = true;
             textBox3.Name = "textBox3";
             textBox3.PlaceholderText = "Nguyễn Văn A";
-            textBox3.Size = new Size(248, 37);
+            textBox3.Size = new Size(218, 32);
             textBox3.TabIndex = 9;
             // 
             // textBox2
             // 
             textBox2.BackColor = Color.FromArgb(234, 237, 255);
-            textBox2.Location = new Point(65, 277);
+            textBox2.Location = new Point(57, 235);
             textBox2.Multiline = true;
             textBox2.Name = "textBox2";
             textBox2.PlaceholderText = "Mô tả sơ lược triệu chứng để chuyên khoa sắp xếp bác sĩ phù hợp...";
-            textBox2.Size = new Size(665, 128);
+            textBox2.Size = new Size(582, 109);
             textBox2.TabIndex = 8;
             // 
             // checkBox1
             // 
             checkBox1.AutoSize = true;
-            checkBox1.Location = new Point(68, 423);
+            checkBox1.Location = new Point(60, 360);
             checkBox1.Name = "checkBox1";
-            checkBox1.Size = new Size(507, 24);
+            checkBox1.Size = new Size(446, 21);
             checkBox1.TabIndex = 6;
             checkBox1.Text = "Tôi đồng ý với chính sách xử lý dữ liệu y tế cá nhân của EcoHealth Clinic.";
             checkBox1.UseVisualStyleBackColor = true;
@@ -923,9 +923,9 @@
             // 
             label63.AutoSize = true;
             label63.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
-            label63.Location = new Point(67, 245);
+            label63.Location = new Point(59, 208);
             label63.Name = "label63";
-            label63.Size = new Size(251, 20);
+            label63.Size = new Size(231, 19);
             label63.TabIndex = 5;
             label63.Text = "Nội dung triệu chứng hoặc yêu cầu";
             // 
@@ -933,9 +933,9 @@
             // 
             label62.AutoSize = true;
             label62.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
-            label62.Location = new Point(433, 160);
+            label62.Location = new Point(379, 136);
             label62.Name = "label62";
-            label62.Size = new Size(160, 20);
+            label62.Size = new Size(149, 19);
             label62.TabIndex = 4;
             label62.Text = "Số điện thoại liên hệ *";
             // 
@@ -943,18 +943,18 @@
             // 
             label61.AutoSize = true;
             label61.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
-            label61.Location = new Point(68, 160);
+            label61.Location = new Point(60, 136);
             label61.Name = "label61";
-            label61.Size = new Size(164, 20);
+            label61.Size = new Size(149, 19);
             label61.TabIndex = 3;
             label61.Text = "Họ và tên bệnh nhân *";
             // 
             // label60
             // 
             label60.AutoSize = true;
-            label60.Location = new Point(68, 105);
+            label60.Location = new Point(60, 89);
             label60.Name = "label60";
-            label60.Size = new Size(574, 20);
+            label60.Size = new Size(507, 17);
             label60.TabIndex = 2;
             label60.Text = "Để lại thông tin, nhân viên điều dưỡng sẽ gọi lại xác nhận trong vòng 5 phút làm việc.";
             // 
@@ -962,9 +962,9 @@
             // 
             label59.AutoSize = true;
             label59.Font = new Font("Segoe UI", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label59.Location = new Point(65, 52);
+            label59.Location = new Point(57, 44);
             label59.Name = "label59";
-            label59.Size = new Size(456, 38);
+            label59.Size = new Size(394, 32);
             label59.TabIndex = 1;
             label59.Text = "Tư vấn trực tiếp & Đăng ký ưu tiên";
             // 
@@ -973,9 +973,9 @@
             label58.AutoSize = true;
             label58.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label58.ForeColor = Color.FromArgb(0, 97, 148);
-            label58.Location = new Point(68, 20);
+            label58.Location = new Point(60, 17);
             label58.Name = "label58";
-            label58.Size = new Size(161, 20);
+            label58.Size = new Size(152, 19);
             label58.TabIndex = 0;
             label58.Text = "HỖ TRỢ NGƯỜI BỆNH";
             // 
@@ -989,9 +989,9 @@
             panel7.Controls.Add(label46);
             panel7.Controls.Add(label45);
             panel7.Controls.Add(label44);
-            panel7.Location = new Point(0, 1895);
+            panel7.Location = new Point(0, 1611);
             panel7.Name = "panel7";
-            panel7.Size = new Size(1903, 443);
+            panel7.Size = new Size(1665, 377);
             panel7.TabIndex = 11;
             // 
             // siticonePanel16
@@ -1027,7 +1027,7 @@
     0.5F,
     1F
     };
-            siticonePanel16.Location = new Point(1447, 205);
+            siticonePanel16.Location = new Point(1266, 174);
             siticonePanel16.Name = "siticonePanel16";
             siticonePanel16.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel16.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -1037,7 +1037,7 @@
             siticonePanel16.RippleMaxSize = 600F;
             siticonePanel16.RippleSpeed = 15F;
             siticonePanel16.ShowBorder = true;
-            siticonePanel16.Size = new Size(430, 210);
+            siticonePanel16.Size = new Size(376, 178);
             siticonePanel16.TabIndex = 6;
             siticonePanel16.TabStop = true;
             siticonePanel16.UseBorderGradient = false;
@@ -1049,9 +1049,9 @@
             // 
             label54.AutoSize = true;
             label54.Font = new Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label54.Location = new Point(25, 123);
+            label54.Location = new Point(22, 105);
             label54.Name = "label54";
-            label54.Size = new Size(373, 69);
+            label54.Size = new Size(334, 63);
             label54.TabIndex = 2;
             label54.Text = "Dữ liệu sức khỏe mã hóa đa tầng, tra cứu đơn\nthuốc và kết quả xét nghiệm trực tuyến mọi lúc\nmọi nơi trên điện thoại.";
             // 
@@ -1059,16 +1059,16 @@
             // 
             label53.AutoSize = true;
             label53.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label53.Location = new Point(26, 75);
+            label53.Location = new Point(23, 64);
             label53.Name = "label53";
-            label53.Size = new Size(250, 31);
+            label53.Size = new Size(231, 30);
             label53.TabIndex = 1;
             label53.Text = "Bệnh án EMR bảo mật";
             // 
             // pictureBox18
             // 
             pictureBox18.Image = (Image)resources.GetObject("pictureBox18.Image");
-            pictureBox18.Location = new Point(26, 20);
+            pictureBox18.Location = new Point(23, 17);
             pictureBox18.Name = "pictureBox18";
             pictureBox18.Size = new Size(52, 52);
             pictureBox18.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -1108,7 +1108,7 @@
     0.5F,
     1F
     };
-            siticonePanel15.Location = new Point(979, 205);
+            siticonePanel15.Location = new Point(857, 174);
             siticonePanel15.Name = "siticonePanel15";
             siticonePanel15.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel15.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -1118,7 +1118,7 @@
             siticonePanel15.RippleMaxSize = 600F;
             siticonePanel15.RippleSpeed = 15F;
             siticonePanel15.ShowBorder = true;
-            siticonePanel15.Size = new Size(430, 210);
+            siticonePanel15.Size = new Size(376, 178);
             siticonePanel15.TabIndex = 5;
             siticonePanel15.TabStop = true;
             siticonePanel15.UseBorderGradient = false;
@@ -1130,9 +1130,9 @@
             // 
             label52.AutoSize = true;
             label52.Font = new Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label52.Location = new Point(21, 123);
+            label52.Location = new Point(18, 105);
             label52.Name = "label52";
-            label52.Size = new Size(376, 69);
+            label52.Size = new Size(335, 63);
             label52.TabIndex = 2;
             label52.Text = "Hệ thống phòng khám lọc khí áp lực dương\nchuẩn phòng mổ, trang thiết bị chẩn đoán hình\nảnh từ GE Healthcare & Siemens.";
             // 
@@ -1140,16 +1140,16 @@
             // 
             label51.AutoSize = true;
             label51.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label51.Location = new Point(22, 75);
+            label51.Location = new Point(19, 64);
             label51.Name = "label51";
-            label51.Size = new Size(263, 31);
+            label51.Size = new Size(243, 30);
             label51.TabIndex = 1;
             label51.Text = "Cơ sở vô trùng hiện đại";
             // 
             // pictureBox17
             // 
             pictureBox17.Image = (Image)resources.GetObject("pictureBox17.Image");
-            pictureBox17.Location = new Point(22, 20);
+            pictureBox17.Location = new Point(19, 17);
             pictureBox17.Name = "pictureBox17";
             pictureBox17.Size = new Size(52, 52);
             pictureBox17.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -1189,7 +1189,7 @@
     0.5F,
     1F
     };
-            siticonePanel14.Location = new Point(511, 205);
+            siticonePanel14.Location = new Point(447, 174);
             siticonePanel14.Name = "siticonePanel14";
             siticonePanel14.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel14.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -1199,7 +1199,7 @@
             siticonePanel14.RippleMaxSize = 600F;
             siticonePanel14.RippleSpeed = 15F;
             siticonePanel14.ShowBorder = true;
-            siticonePanel14.Size = new Size(430, 210);
+            siticonePanel14.Size = new Size(376, 178);
             siticonePanel14.TabIndex = 4;
             siticonePanel14.TabStop = true;
             siticonePanel14.UseBorderGradient = false;
@@ -1211,9 +1211,9 @@
             // 
             label50.AutoSize = true;
             label50.Font = new Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label50.Location = new Point(20, 123);
+            label50.Location = new Point(18, 105);
             label50.Name = "label50";
-            label50.Size = new Size(352, 69);
+            label50.Size = new Size(317, 63);
             label50.TabIndex = 2;
             label50.Text = "100% bác sĩ có học vị sau đại học, từng công\ntác tại các bệnh viện tuyến trung ương và\nthường xuyên tu nghiệp quốc tế.";
             // 
@@ -1221,16 +1221,16 @@
             // 
             label49.AutoSize = true;
             label49.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label49.Location = new Point(21, 75);
+            label49.Location = new Point(18, 64);
             label49.Name = "label49";
-            label49.Size = new Size(232, 31);
+            label49.Size = new Size(214, 30);
             label49.TabIndex = 1;
             label49.Text = "Bác sĩ chuẩn quốc tế";
             // 
             // pictureBox16
             // 
             pictureBox16.Image = (Image)resources.GetObject("pictureBox16.Image");
-            pictureBox16.Location = new Point(21, 20);
+            pictureBox16.Location = new Point(18, 17);
             pictureBox16.Name = "pictureBox16";
             pictureBox16.Size = new Size(52, 52);
             pictureBox16.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -1270,7 +1270,7 @@
     0.5F,
     1F
     };
-            siticonePanel13.Location = new Point(44, 205);
+            siticonePanel13.Location = new Point(38, 174);
             siticonePanel13.Name = "siticonePanel13";
             siticonePanel13.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel13.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -1280,7 +1280,7 @@
             siticonePanel13.RippleMaxSize = 600F;
             siticonePanel13.RippleSpeed = 15F;
             siticonePanel13.ShowBorder = true;
-            siticonePanel13.Size = new Size(430, 210);
+            siticonePanel13.Size = new Size(376, 178);
             siticonePanel13.TabIndex = 3;
             siticonePanel13.TabStop = true;
             siticonePanel13.UseBorderGradient = false;
@@ -1292,9 +1292,9 @@
             // 
             label48.AutoSize = true;
             label48.Font = new Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label48.Location = new Point(18, 123);
+            label48.Location = new Point(16, 105);
             label48.Name = "label48";
-            label48.Size = new Size(378, 69);
+            label48.Size = new Size(342, 63);
             label48.TabIndex = 2;
             label48.Text = "Hệ thống điều phối luồng khám thông minh,\nđảm bảo vào khám đúng khung giờ cam kết mà\nkhông cần lấy số xếp hàng.";
             // 
@@ -1302,16 +1302,16 @@
             // 
             label47.AutoSize = true;
             label47.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label47.Location = new Point(19, 75);
+            label47.Location = new Point(17, 64);
             label47.Name = "label47";
-            label47.Size = new Size(276, 31);
+            label47.Size = new Size(255, 30);
             label47.TabIndex = 1;
             label47.Text = "Đặt hẹn chuẩn xác 100%";
             // 
             // pictureBox15
             // 
             pictureBox15.Image = (Image)resources.GetObject("pictureBox15.Image");
-            pictureBox15.Location = new Point(19, 20);
+            pictureBox15.Location = new Point(17, 17);
             pictureBox15.Name = "pictureBox15";
             pictureBox15.Size = new Size(52, 52);
             pictureBox15.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -1322,9 +1322,9 @@
             // 
             label46.AutoSize = true;
             label46.Font = new Font("Segoe UI", 13.2000008F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label46.Location = new Point(538, 109);
+            label46.Location = new Point(471, 93);
             label46.Name = "label46";
-            label46.Size = new Size(910, 31);
+            label46.Size = new Size(774, 28);
             label46.TabIndex = 2;
             label46.Text = "Hệ sinh thái y tế tân tiến kết hợp y đức trọn vẹn vì sức khỏe dài hạn của bạn và gia đình.";
             // 
@@ -1334,9 +1334,9 @@
             label45.AutoSize = true;
             label45.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label45.ForeColor = Color.FromArgb(0, 106, 97);
-            label45.Location = new Point(915, 26);
+            label45.Location = new Point(801, 22);
             label45.Name = "label45";
-            label45.Size = new Size(116, 20);
+            label45.Size = new Size(115, 19);
             label45.TabIndex = 1;
             label45.Text = "GIÁ TRỊ CỐT LÕI";
             // 
@@ -1344,9 +1344,9 @@
             // 
             label44.AutoSize = true;
             label44.Font = new Font("Segoe UI", 22.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label44.Location = new Point(591, 52);
+            label44.Location = new Point(517, 44);
             label44.Name = "label44";
-            label44.Size = new Size(773, 50);
+            label44.Size = new Size(693, 45);
             label44.TabIndex = 0;
             label44.Text = "Vì sao 100.000+ bệnh nhân chọn EcoHealth";
             // 
@@ -1360,9 +1360,9 @@
             panel5.Controls.Add(siticonePanel8);
             panel5.Controls.Add(label28);
             panel5.Controls.Add(label27);
-            panel5.Location = new Point(0, 1258);
+            panel5.Location = new Point(0, 1069);
             panel5.Name = "panel5";
-            panel5.Size = new Size(1903, 613);
+            panel5.Size = new Size(1665, 521);
             panel5.TabIndex = 10;
             // 
             // siticonePanel12
@@ -1401,7 +1401,7 @@
     0.5F,
     1F
     };
-            siticonePanel12.Location = new Point(1530, 148);
+            siticonePanel12.Location = new Point(1339, 126);
             siticonePanel12.Name = "siticonePanel12";
             siticonePanel12.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel12.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -1411,7 +1411,7 @@
             siticonePanel12.RippleMaxSize = 600F;
             siticonePanel12.RippleSpeed = 15F;
             siticonePanel12.ShowBorder = true;
-            siticonePanel12.Size = new Size(317, 447);
+            siticonePanel12.Size = new Size(277, 380);
             siticonePanel12.TabIndex = 7;
             siticonePanel12.TabStop = true;
             siticonePanel12.UseBorderGradient = false;
@@ -1422,7 +1422,7 @@
             // pictureBox14
             // 
             pictureBox14.Image = (Image)resources.GetObject("pictureBox14.Image");
-            pictureBox14.Location = new Point(20, 15);
+            pictureBox14.Location = new Point(18, 13);
             pictureBox14.Name = "pictureBox14";
             pictureBox14.Size = new Size(277, 277);
             pictureBox14.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -1436,9 +1436,9 @@
             button21.FlatStyle = FlatStyle.Flat;
             button21.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button21.ForeColor = Color.White;
-            button21.Location = new Point(42, 390);
+            button21.Location = new Point(37, 332);
             button21.Name = "button21";
-            button21.Size = new Size(218, 29);
+            button21.Size = new Size(191, 25);
             button21.TabIndex = 3;
             button21.Text = "Đăt hẹn khám";
             button21.UseVisualStyleBackColor = false;
@@ -1450,9 +1450,9 @@
             button20.FlatStyle = FlatStyle.Flat;
             button20.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button20.ForeColor = Color.White;
-            button20.Location = new Point(-257, 372);
+            button20.Location = new Point(-225, 316);
             button20.Name = "button20";
-            button20.Size = new Size(218, 29);
+            button20.Size = new Size(191, 25);
             button20.TabIndex = 3;
             button20.Text = "Đăt hẹn khám";
             button20.UseVisualStyleBackColor = false;
@@ -1461,9 +1461,9 @@
             // 
             label43.AutoSize = true;
             label43.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
-            label43.Location = new Point(20, 321);
+            label43.Location = new Point(18, 273);
             label43.Name = "label43";
-            label43.Size = new Size(169, 28);
+            label43.Size = new Size(153, 25);
             label43.TabIndex = 2;
             label43.Text = "Lê Thị Ngọc Hoa";
             // 
@@ -1472,18 +1472,18 @@
             label41.AutoSize = true;
             label41.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
             label41.ForeColor = Color.FromArgb(0, 106, 97);
-            label41.Location = new Point(20, 301);
+            label41.Location = new Point(18, 256);
             label41.Name = "label41";
-            label41.Size = new Size(158, 20);
+            label41.Size = new Size(151, 19);
             label41.TabIndex = 0;
             label41.Text = "BS.CKI - Trưởng khoa";
             // 
             // label42
             // 
             label42.AutoSize = true;
-            label42.Location = new Point(20, 349);
+            label42.Location = new Point(18, 297);
             label42.Name = "label42";
-            label42.Size = new Size(190, 20);
+            label42.Size = new Size(168, 17);
             label42.TabIndex = 1;
             label42.Text = "Chuyên khoa Nội tổng quát";
             // 
@@ -1522,7 +1522,7 @@
     0.5F,
     1F
     };
-            siticonePanel11.Location = new Point(1164, 148);
+            siticonePanel11.Location = new Point(1018, 126);
             siticonePanel11.Name = "siticonePanel11";
             siticonePanel11.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel11.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -1532,7 +1532,7 @@
             siticonePanel11.RippleMaxSize = 600F;
             siticonePanel11.RippleSpeed = 15F;
             siticonePanel11.ShowBorder = true;
-            siticonePanel11.Size = new Size(317, 447);
+            siticonePanel11.Size = new Size(277, 380);
             siticonePanel11.TabIndex = 6;
             siticonePanel11.TabStop = true;
             siticonePanel11.UseBorderGradient = false;
@@ -1543,7 +1543,7 @@
             // pictureBox13
             // 
             pictureBox13.Image = (Image)resources.GetObject("pictureBox13.Image");
-            pictureBox13.Location = new Point(20, 15);
+            pictureBox13.Location = new Point(18, 13);
             pictureBox13.Name = "pictureBox13";
             pictureBox13.Size = new Size(277, 277);
             pictureBox13.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -1557,9 +1557,9 @@
             button19.FlatStyle = FlatStyle.Flat;
             button19.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button19.ForeColor = Color.White;
-            button19.Location = new Point(43, 390);
+            button19.Location = new Point(38, 332);
             button19.Name = "button19";
-            button19.Size = new Size(218, 29);
+            button19.Size = new Size(191, 25);
             button19.TabIndex = 3;
             button19.Text = "Đăt hẹn khám";
             button19.UseVisualStyleBackColor = false;
@@ -1568,18 +1568,18 @@
             // 
             label38.AutoSize = true;
             label38.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
-            label38.Location = new Point(20, 321);
+            label38.Location = new Point(18, 273);
             label38.Name = "label38";
-            label38.Size = new Size(140, 28);
+            label38.Size = new Size(127, 25);
             label38.TabIndex = 2;
             label38.Text = "Đỗ Mai Trang";
             // 
             // label39
             // 
             label39.AutoSize = true;
-            label39.Location = new Point(20, 349);
+            label39.Location = new Point(18, 297);
             label39.Name = "label39";
-            label39.Size = new Size(190, 20);
+            label39.Size = new Size(168, 17);
             label39.TabIndex = 1;
             label39.Text = "Chuyên khoa Nội tổng quát";
             // 
@@ -1588,9 +1588,9 @@
             label32.AutoSize = true;
             label32.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
             label32.ForeColor = Color.FromArgb(0, 106, 97);
-            label32.Location = new Point(20, 301);
+            label32.Location = new Point(18, 256);
             label32.Name = "label32";
-            label32.Size = new Size(55, 20);
+            label32.Size = new Size(52, 19);
             label32.TabIndex = 0;
             label32.Text = "BS.CKI";
             // 
@@ -1629,7 +1629,7 @@
     0.5F,
     1F
     };
-            siticonePanel10.Location = new Point(785, 148);
+            siticonePanel10.Location = new Point(687, 126);
             siticonePanel10.Name = "siticonePanel10";
             siticonePanel10.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel10.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -1639,7 +1639,7 @@
             siticonePanel10.RippleMaxSize = 600F;
             siticonePanel10.RippleSpeed = 15F;
             siticonePanel10.ShowBorder = true;
-            siticonePanel10.Size = new Size(317, 447);
+            siticonePanel10.Size = new Size(277, 380);
             siticonePanel10.TabIndex = 5;
             siticonePanel10.TabStop = true;
             siticonePanel10.UseBorderGradient = false;
@@ -1650,7 +1650,7 @@
             // pictureBox12
             // 
             pictureBox12.Image = (Image)resources.GetObject("pictureBox12.Image");
-            pictureBox12.Location = new Point(20, 15);
+            pictureBox12.Location = new Point(18, 13);
             pictureBox12.Name = "pictureBox12";
             pictureBox12.Size = new Size(277, 277);
             pictureBox12.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -1664,9 +1664,9 @@
             button18.FlatStyle = FlatStyle.Flat;
             button18.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button18.ForeColor = Color.White;
-            button18.Location = new Point(46, 390);
+            button18.Location = new Point(40, 332);
             button18.Name = "button18";
-            button18.Size = new Size(218, 29);
+            button18.Size = new Size(191, 25);
             button18.TabIndex = 3;
             button18.Text = "Đăt hẹn khám";
             button18.UseVisualStyleBackColor = false;
@@ -1674,9 +1674,9 @@
             // label37
             // 
             label37.AutoSize = true;
-            label37.Location = new Point(20, 349);
+            label37.Location = new Point(18, 297);
             label37.Name = "label37";
-            label37.Size = new Size(213, 20);
+            label37.Size = new Size(187, 17);
             label37.TabIndex = 1;
             label37.Text = "Chuyên khoa Da liễu & Thẩm mỹ";
             // 
@@ -1684,9 +1684,9 @@
             // 
             label40.AutoSize = true;
             label40.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
-            label40.Location = new Point(20, 321);
+            label40.Location = new Point(18, 273);
             label40.Name = "label40";
-            label40.Size = new Size(141, 28);
+            label40.Size = new Size(129, 25);
             label40.TabIndex = 2;
             label40.Text = "Trần Đức Anh";
             // 
@@ -1695,9 +1695,9 @@
             label31.AutoSize = true;
             label31.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
             label31.ForeColor = Color.FromArgb(0, 106, 97);
-            label31.Location = new Point(20, 301);
+            label31.Location = new Point(18, 256);
             label31.Name = "label31";
-            label31.Size = new Size(74, 20);
+            label31.Size = new Size(71, 19);
             label31.TabIndex = 0;
             label31.Text = "TS. Bác sĩ";
             // 
@@ -1736,7 +1736,7 @@
     0.5F,
     1F
     };
-            siticonePanel9.Location = new Point(413, 148);
+            siticonePanel9.Location = new Point(361, 126);
             siticonePanel9.Name = "siticonePanel9";
             siticonePanel9.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel9.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -1746,7 +1746,7 @@
             siticonePanel9.RippleMaxSize = 600F;
             siticonePanel9.RippleSpeed = 15F;
             siticonePanel9.ShowBorder = true;
-            siticonePanel9.Size = new Size(317, 447);
+            siticonePanel9.Size = new Size(277, 380);
             siticonePanel9.TabIndex = 4;
             siticonePanel9.TabStop = true;
             siticonePanel9.UseBorderGradient = false;
@@ -1757,7 +1757,7 @@
             // pictureBox11
             // 
             pictureBox11.Image = (Image)resources.GetObject("pictureBox11.Image");
-            pictureBox11.Location = new Point(20, 15);
+            pictureBox11.Location = new Point(18, 13);
             pictureBox11.Name = "pictureBox11";
             pictureBox11.Size = new Size(277, 277);
             pictureBox11.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -1771,9 +1771,9 @@
             button17.FlatStyle = FlatStyle.Flat;
             button17.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button17.ForeColor = Color.White;
-            button17.Location = new Point(43, 390);
+            button17.Location = new Point(38, 332);
             button17.Name = "button17";
-            button17.Size = new Size(218, 29);
+            button17.Size = new Size(191, 25);
             button17.TabIndex = 3;
             button17.Text = "Đăt hẹn khám";
             button17.UseVisualStyleBackColor = false;
@@ -1782,18 +1782,18 @@
             // 
             label36.AutoSize = true;
             label36.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
-            label36.Location = new Point(20, 321);
+            label36.Location = new Point(18, 273);
             label36.Name = "label36";
-            label36.Size = new Size(223, 28);
+            label36.Size = new Size(203, 25);
             label36.TabIndex = 3;
             label36.Text = "Nguyễn Thị Thu Trang";
             // 
             // label34
             // 
             label34.AutoSize = true;
-            label34.Location = new Point(20, 349);
+            label34.Location = new Point(18, 297);
             label34.Name = "label34";
-            label34.Size = new Size(207, 20);
+            label34.Size = new Size(183, 17);
             label34.TabIndex = 2;
             label34.Text = "Chuyên khoa Nhi & Dinh dưỡng";
             // 
@@ -1802,9 +1802,9 @@
             label30.AutoSize = true;
             label30.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
             label30.ForeColor = Color.FromArgb(0, 106, 97);
-            label30.Location = new Point(20, 301);
+            label30.Location = new Point(18, 256);
             label30.Name = "label30";
-            label30.Size = new Size(83, 20);
+            label30.Size = new Size(79, 19);
             label30.TabIndex = 0;
             label30.Text = "ThS. Bác sĩ";
             // 
@@ -1843,7 +1843,7 @@
     0.5F,
     1F
     };
-            siticonePanel8.Location = new Point(44, 148);
+            siticonePanel8.Location = new Point(38, 126);
             siticonePanel8.Name = "siticonePanel8";
             siticonePanel8.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel8.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -1853,7 +1853,7 @@
             siticonePanel8.RippleMaxSize = 600F;
             siticonePanel8.RippleSpeed = 15F;
             siticonePanel8.ShowBorder = true;
-            siticonePanel8.Size = new Size(317, 447);
+            siticonePanel8.Size = new Size(277, 380);
             siticonePanel8.TabIndex = 3;
             siticonePanel8.TabStop = true;
             siticonePanel8.UseBorderGradient = false;
@@ -1864,7 +1864,7 @@
             // pictureBox10
             // 
             pictureBox10.Image = (Image)resources.GetObject("pictureBox10.Image");
-            pictureBox10.Location = new Point(18, 15);
+            pictureBox10.Location = new Point(16, 13);
             pictureBox10.Name = "pictureBox10";
             pictureBox10.Size = new Size(277, 277);
             pictureBox10.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -1878,9 +1878,9 @@
             button16.FlatStyle = FlatStyle.Flat;
             button16.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button16.ForeColor = Color.White;
-            button16.Location = new Point(42, 390);
+            button16.Location = new Point(37, 332);
             button16.Name = "button16";
-            button16.Size = new Size(218, 29);
+            button16.Size = new Size(191, 25);
             button16.TabIndex = 3;
             button16.Text = "Đăt hẹn khám";
             button16.UseVisualStyleBackColor = false;
@@ -1888,9 +1888,9 @@
             // label35
             // 
             label35.AutoSize = true;
-            label35.Location = new Point(19, 349);
+            label35.Location = new Point(17, 297);
             label35.Name = "label35";
-            label35.Size = new Size(229, 20);
+            label35.Size = new Size(201, 17);
             label35.TabIndex = 2;
             label35.Text = "Chuyên khoa Tim mạch Can thiệp";
             // 
@@ -1898,9 +1898,9 @@
             // 
             label33.AutoSize = true;
             label33.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
-            label33.Location = new Point(18, 321);
+            label33.Location = new Point(16, 273);
             label33.Name = "label33";
-            label33.Size = new Size(196, 28);
+            label33.Size = new Size(179, 25);
             label33.TabIndex = 1;
             label33.Text = "Nguyễn Trung Hiếu";
             // 
@@ -1909,9 +1909,9 @@
             label29.AutoSize = true;
             label29.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
             label29.ForeColor = Color.FromArgb(0, 106, 97);
-            label29.Location = new Point(18, 300);
+            label29.Location = new Point(16, 255);
             label29.Name = "label29";
-            label29.Size = new Size(163, 20);
+            label29.Size = new Size(155, 19);
             label29.TabIndex = 0;
             label29.Text = "BS.CKII - Trưởng khoa";
             // 
@@ -1919,9 +1919,9 @@
             // 
             label28.AutoSize = true;
             label28.Font = new Font("Segoe UI", 19.8000011F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label28.Location = new Point(38, 52);
+            label28.Location = new Point(33, 44);
             label28.Name = "label28";
-            label28.Size = new Size(396, 46);
+            label28.Size = new Size(350, 41);
             label28.TabIndex = 2;
             label28.Text = "Đội ngũ bác sĩ tiêu biểu";
             // 
@@ -1930,9 +1930,9 @@
             label27.AutoSize = true;
             label27.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label27.ForeColor = Color.FromArgb(0, 97, 148);
-            label27.Location = new Point(44, 22);
+            label27.Location = new Point(38, 19);
             label27.Name = "label27";
-            label27.Size = new Size(190, 20);
+            label27.Size = new Size(181, 19);
             label27.TabIndex = 1;
             label27.Text = "HỘI ĐỒNG CHUYÊN MÔN";
             // 
@@ -1971,7 +1971,7 @@
     0.5F,
     1F
     };
-            siticonePanel6.Location = new Point(1364, 960);
+            siticonePanel6.Location = new Point(1194, 816);
             siticonePanel6.Name = "siticonePanel6";
             siticonePanel6.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel6.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -1981,7 +1981,7 @@
             siticonePanel6.RippleMaxSize = 600F;
             siticonePanel6.RippleSpeed = 15F;
             siticonePanel6.ShowBorder = true;
-            siticonePanel6.Size = new Size(486, 269);
+            siticonePanel6.Size = new Size(425, 229);
             siticonePanel6.TabIndex = 9;
             siticonePanel6.TabStop = true;
             siticonePanel6.UseBorderGradient = false;
@@ -1994,9 +1994,9 @@
             button13.BackColor = Color.FromArgb(226, 231, 255);
             button13.FlatAppearance.BorderSize = 0;
             button13.ForeColor = Color.FromArgb(0, 97, 148);
-            button13.Location = new Point(349, 197);
+            button13.Location = new Point(305, 167);
             button13.Name = "button13";
-            button13.Size = new Size(94, 29);
+            button13.Size = new Size(82, 25);
             button13.TabIndex = 4;
             button13.Text = "Chọn khám";
             button13.UseVisualStyleBackColor = false;
@@ -2004,7 +2004,7 @@
             // pictureBox9
             // 
             pictureBox9.Image = (Image)resources.GetObject("pictureBox9.Image");
-            pictureBox9.Location = new Point(35, 16);
+            pictureBox9.Location = new Point(31, 14);
             pictureBox9.Name = "pictureBox9";
             pictureBox9.Size = new Size(48, 48);
             pictureBox9.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -2014,9 +2014,9 @@
             // label20
             // 
             label20.AutoSize = true;
-            label20.Location = new Point(35, 117);
+            label20.Location = new Point(31, 99);
             label20.Name = "label20";
-            label20.Size = new Size(442, 40);
+            label20.Size = new Size(393, 34);
             label20.TabIndex = 2;
             label20.Text = "Nội soi ống mềm dải tần hẹp NBI không đau, chẩn đoán sớm ung\nthư vòm họng và bệnh lý xoang mãn tính.";
             // 
@@ -2024,9 +2024,9 @@
             // 
             label18.AutoSize = true;
             label18.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold);
-            label18.Location = new Point(35, 88);
+            label18.Location = new Point(31, 75);
             label18.Name = "label18";
-            label18.Size = new Size(178, 23);
+            label18.Size = new Size(170, 21);
             label18.TabIndex = 1;
             label18.Text = "Tai Mũi Họng Nội soi";
             // 
@@ -2035,9 +2035,9 @@
             label19.AutoSize = true;
             label19.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
             label19.ForeColor = Color.FromArgb(0, 106, 97);
-            label19.Location = new Point(35, 198);
+            label19.Location = new Point(31, 168);
             label19.Name = "label19";
-            label19.Size = new Size(90, 20);
+            label19.Size = new Size(87, 19);
             label19.TabIndex = 3;
             label19.Text = "5 Bác sĩ trực";
             // 
@@ -2076,7 +2076,7 @@
     0.5F,
     1F
     };
-            siticonePanel5.Location = new Point(718, 960);
+            siticonePanel5.Location = new Point(628, 816);
             siticonePanel5.Name = "siticonePanel5";
             siticonePanel5.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel5.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -2086,7 +2086,7 @@
             siticonePanel5.RippleMaxSize = 600F;
             siticonePanel5.RippleSpeed = 15F;
             siticonePanel5.ShowBorder = true;
-            siticonePanel5.Size = new Size(486, 269);
+            siticonePanel5.Size = new Size(425, 229);
             siticonePanel5.TabIndex = 8;
             siticonePanel5.TabStop = true;
             siticonePanel5.UseBorderGradient = false;
@@ -2099,9 +2099,9 @@
             button14.BackColor = Color.FromArgb(226, 231, 255);
             button14.FlatAppearance.BorderSize = 0;
             button14.ForeColor = Color.FromArgb(0, 97, 148);
-            button14.Location = new Point(363, 189);
+            button14.Location = new Point(318, 161);
             button14.Name = "button14";
-            button14.Size = new Size(94, 29);
+            button14.Size = new Size(82, 25);
             button14.TabIndex = 4;
             button14.Text = "Chọn khám";
             button14.UseVisualStyleBackColor = false;
@@ -2109,7 +2109,7 @@
             // pictureBox7
             // 
             pictureBox7.Image = (Image)resources.GetObject("pictureBox7.Image");
-            pictureBox7.Location = new Point(27, 16);
+            pictureBox7.Location = new Point(24, 14);
             pictureBox7.Name = "pictureBox7";
             pictureBox7.Size = new Size(48, 48);
             pictureBox7.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -2119,9 +2119,9 @@
             // label23
             // 
             label23.AutoSize = true;
-            label23.Location = new Point(27, 117);
+            label23.Location = new Point(24, 99);
             label23.Name = "label23";
-            label23.Size = new Size(403, 40);
+            label23.Size = new Size(357, 34);
             label23.TabIndex = 2;
             label23.Text = "Cấy ghép Implant không đau, chỉnh nha khay trong suốt, tẩy\ntrắng răng công nghệ Plasma vô trùng tuyệt đối.";
             // 
@@ -2130,9 +2130,9 @@
             label21.AutoSize = true;
             label21.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
             label21.ForeColor = Color.FromArgb(0, 106, 97);
-            label21.Location = new Point(27, 193);
+            label21.Location = new Point(24, 164);
             label21.Name = "label21";
-            label21.Size = new Size(151, 20);
+            label21.Size = new Size(140, 19);
             label21.TabIndex = 3;
             label21.Text = "9 Bác sĩ chuyên khoa";
             // 
@@ -2140,9 +2140,9 @@
             // 
             label22.AutoSize = true;
             label22.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold);
-            label22.Location = new Point(27, 88);
+            label22.Location = new Point(24, 75);
             label22.Name = "label22";
-            label22.Size = new Size(226, 23);
+            label22.Size = new Size(212, 21);
             label22.TabIndex = 1;
             label22.Text = "Răng Hàm Mặt Kỹ thuật số";
             // 
@@ -2181,7 +2181,7 @@
     0.5F,
     1F
     };
-            siticonePanel4.Location = new Point(1364, 662);
+            siticonePanel4.Location = new Point(1194, 563);
             siticonePanel4.Name = "siticonePanel4";
             siticonePanel4.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel4.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -2191,7 +2191,7 @@
             siticonePanel4.RippleMaxSize = 600F;
             siticonePanel4.RippleSpeed = 15F;
             siticonePanel4.ShowBorder = true;
-            siticonePanel4.Size = new Size(486, 269);
+            siticonePanel4.Size = new Size(425, 229);
             siticonePanel4.TabIndex = 7;
             siticonePanel4.TabStop = true;
             siticonePanel4.UseBorderGradient = false;
@@ -2204,9 +2204,9 @@
             button12.BackColor = Color.FromArgb(226, 231, 255);
             button12.FlatAppearance.BorderSize = 0;
             button12.ForeColor = Color.FromArgb(0, 97, 148);
-            button12.Location = new Point(349, 194);
+            button12.Location = new Point(305, 165);
             button12.Name = "button12";
-            button12.Size = new Size(94, 29);
+            button12.Size = new Size(82, 25);
             button12.TabIndex = 4;
             button12.Text = "Chọn khám";
             button12.UseVisualStyleBackColor = false;
@@ -2214,7 +2214,7 @@
             // pictureBox8
             // 
             pictureBox8.Image = (Image)resources.GetObject("pictureBox8.Image");
-            pictureBox8.Location = new Point(33, 30);
+            pictureBox8.Location = new Point(29, 26);
             pictureBox8.Name = "pictureBox8";
             pictureBox8.Size = new Size(48, 48);
             pictureBox8.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -2224,9 +2224,9 @@
             // label16
             // 
             label16.AutoSize = true;
-            label16.Location = new Point(30, 122);
+            label16.Location = new Point(26, 104);
             label16.Name = "label16";
-            label16.Size = new Size(450, 40);
+            label16.Size = new Size(396, 34);
             label16.TabIndex = 2;
             label16.Text = "Siêu âm tim 4D Doppler màu, Holter điện tâm đồ 24h, tầm soát xơ\nvữa động mạch và tăng huyết áp kháng trị.";
             // 
@@ -2235,9 +2235,9 @@
             label17.AutoSize = true;
             label17.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
             label17.ForeColor = Color.FromArgb(0, 106, 97);
-            label17.Location = new Point(21, 203);
+            label17.Location = new Point(18, 173);
             label17.Name = "label17";
-            label17.Size = new Size(176, 20);
+            label17.Size = new Size(162, 19);
             label17.TabIndex = 3;
             label17.Text = "6 Chuyên gia đầu ngành";
             // 
@@ -2245,9 +2245,9 @@
             // 
             label15.AutoSize = true;
             label15.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold);
-            label15.Location = new Point(30, 93);
+            label15.Location = new Point(26, 79);
             label15.Name = "label15";
-            label15.Size = new Size(184, 23);
+            label15.Size = new Size(177, 21);
             label15.TabIndex = 1;
             label15.Text = "Tim mạch Chuyên sâu";
             // 
@@ -2286,7 +2286,7 @@
     0.5F,
     1F
     };
-            siticonePanel3.Location = new Point(83, 960);
+            siticonePanel3.Location = new Point(73, 816);
             siticonePanel3.Name = "siticonePanel3";
             siticonePanel3.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel3.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -2296,7 +2296,7 @@
             siticonePanel3.RippleMaxSize = 600F;
             siticonePanel3.RippleSpeed = 15F;
             siticonePanel3.ShowBorder = true;
-            siticonePanel3.Size = new Size(486, 269);
+            siticonePanel3.Size = new Size(425, 229);
             siticonePanel3.TabIndex = 6;
             siticonePanel3.TabStop = true;
             siticonePanel3.UseBorderGradient = false;
@@ -2309,9 +2309,9 @@
             button15.BackColor = Color.FromArgb(226, 231, 255);
             button15.FlatAppearance.BorderSize = 0;
             button15.ForeColor = Color.FromArgb(0, 97, 148);
-            button15.Location = new Point(352, 202);
+            button15.Location = new Point(308, 172);
             button15.Name = "button15";
-            button15.Size = new Size(94, 29);
+            button15.Size = new Size(82, 25);
             button15.TabIndex = 4;
             button15.Text = "Chọn khám";
             button15.UseVisualStyleBackColor = false;
@@ -2319,7 +2319,7 @@
             // pictureBox6
             // 
             pictureBox6.Image = (Image)resources.GetObject("pictureBox6.Image");
-            pictureBox6.Location = new Point(20, 16);
+            pictureBox6.Location = new Point(18, 14);
             pictureBox6.Name = "pictureBox6";
             pictureBox6.Size = new Size(48, 48);
             pictureBox6.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -2330,9 +2330,9 @@
             // 
             label26.AutoSize = true;
             label26.ForeColor = SystemColors.ActiveCaptionText;
-            label26.Location = new Point(20, 117);
+            label26.Location = new Point(18, 99);
             label26.Name = "label26";
-            label26.Size = new Size(448, 40);
+            label26.Size = new Size(397, 34);
             label26.TabIndex = 2;
             label26.Text = "Điều trị dứt điểm mụn trứng cá, viêm da cơ địa, trẻ hóa công nghệ\nLaser PicoSure chuyển giao từ Hoa Kỳ.";
             // 
@@ -2340,9 +2340,9 @@
             // 
             label24.AutoSize = true;
             label24.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold);
-            label24.Location = new Point(16, 88);
+            label24.Location = new Point(14, 75);
             label24.Name = "label24";
-            label24.Size = new Size(209, 23);
+            label24.Size = new Size(198, 21);
             label24.TabIndex = 1;
             label24.Text = "Da liễu & Thẩm mỹ y khoa";
             // 
@@ -2351,9 +2351,9 @@
             label25.AutoSize = true;
             label25.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
             label25.ForeColor = Color.FromArgb(0, 106, 97);
-            label25.Location = new Point(16, 206);
+            label25.Location = new Point(14, 175);
             label25.Name = "label25";
-            label25.Size = new Size(109, 20);
+            label25.Size = new Size(103, 19);
             label25.TabIndex = 3;
             label25.Text = "7 Bác sĩ da liễu";
             // 
@@ -2392,7 +2392,7 @@
     0.5F,
     1F
     };
-            siticonePanel2.Location = new Point(718, 662);
+            siticonePanel2.Location = new Point(628, 563);
             siticonePanel2.Name = "siticonePanel2";
             siticonePanel2.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel2.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -2402,7 +2402,7 @@
             siticonePanel2.RippleMaxSize = 600F;
             siticonePanel2.RippleSpeed = 15F;
             siticonePanel2.ShowBorder = true;
-            siticonePanel2.Size = new Size(486, 269);
+            siticonePanel2.Size = new Size(425, 229);
             siticonePanel2.TabIndex = 5;
             siticonePanel2.TabStop = true;
             siticonePanel2.UseBorderGradient = false;
@@ -2415,9 +2415,9 @@
             button11.BackColor = Color.FromArgb(226, 231, 255);
             button11.FlatAppearance.BorderSize = 0;
             button11.ForeColor = Color.FromArgb(0, 97, 148);
-            button11.Location = new Point(350, 194);
+            button11.Location = new Point(306, 165);
             button11.Name = "button11";
-            button11.Size = new Size(94, 29);
+            button11.Size = new Size(82, 25);
             button11.TabIndex = 4;
             button11.Text = "Chọn khám";
             button11.UseVisualStyleBackColor = false;
@@ -2425,7 +2425,7 @@
             // pictureBox5
             // 
             pictureBox5.Image = (Image)resources.GetObject("pictureBox5.Image");
-            pictureBox5.Location = new Point(27, 30);
+            pictureBox5.Location = new Point(24, 26);
             pictureBox5.Name = "pictureBox5";
             pictureBox5.Size = new Size(48, 48);
             pictureBox5.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -2437,18 +2437,18 @@
             label14.AutoSize = true;
             label14.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
             label14.ForeColor = Color.FromArgb(0, 106, 97);
-            label14.Location = new Point(27, 198);
+            label14.Location = new Point(24, 168);
             label14.Name = "label14";
-            label14.Size = new Size(90, 20);
+            label14.Size = new Size(87, 19);
             label14.TabIndex = 3;
             label14.Text = "8 Bác sĩ trực";
             // 
             // label13
             // 
             label13.AutoSize = true;
-            label13.Location = new Point(27, 122);
+            label13.Location = new Point(24, 104);
             label13.Name = "label13";
-            label13.Size = new Size(424, 40);
+            label13.Size = new Size(374, 34);
             label13.TabIndex = 2;
             label13.Text = "Khu khám thân thiện không gian trẻ em, bác sĩ thấu hiểu tâm lý\nbé, vắc xin nhập khẩu bảo quản chuẩn GSP.";
             // 
@@ -2456,9 +2456,9 @@
             // 
             label12.AutoSize = true;
             label12.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold);
-            label12.Location = new Point(27, 93);
+            label12.Location = new Point(24, 79);
             label12.Name = "label12";
-            label12.Size = new Size(186, 23);
+            label12.Size = new Size(178, 21);
             label12.TabIndex = 1;
             label12.Text = "Nhi khoa & Tiêm chủng";
             // 
@@ -2497,7 +2497,7 @@
     0.5F,
     1F
     };
-            siticonePanel1.Location = new Point(81, 660);
+            siticonePanel1.Location = new Point(71, 561);
             siticonePanel1.Name = "siticonePanel1";
             siticonePanel1.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel1.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -2507,7 +2507,7 @@
             siticonePanel1.RippleMaxSize = 600F;
             siticonePanel1.RippleSpeed = 15F;
             siticonePanel1.ShowBorder = true;
-            siticonePanel1.Size = new Size(486, 269);
+            siticonePanel1.Size = new Size(425, 229);
             siticonePanel1.TabIndex = 4;
             siticonePanel1.TabStop = true;
             siticonePanel1.UseBorderGradient = false;
@@ -2520,9 +2520,9 @@
             button10.BackColor = Color.FromArgb(226, 231, 255);
             button10.FlatAppearance.BorderSize = 0;
             button10.ForeColor = Color.FromArgb(0, 97, 148);
-            button10.Location = new Point(341, 179);
+            button10.Location = new Point(298, 152);
             button10.Name = "button10";
-            button10.Size = new Size(94, 29);
+            button10.Size = new Size(82, 25);
             button10.TabIndex = 4;
             button10.Text = "Chọn khám";
             button10.UseVisualStyleBackColor = false;
@@ -2532,18 +2532,18 @@
             label11.AutoSize = true;
             label11.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
             label11.ForeColor = Color.FromArgb(0, 106, 97);
-            label11.Location = new Point(18, 188);
+            label11.Location = new Point(16, 160);
             label11.Name = "label11";
-            label11.Size = new Size(96, 20);
+            label11.Size = new Size(93, 19);
             label11.TabIndex = 3;
             label11.Text = "12 Bác sĩ trực";
             // 
             // label10
             // 
             label10.AutoSize = true;
-            label10.Location = new Point(22, 124);
+            label10.Location = new Point(19, 105);
             label10.Name = "label10";
-            label10.Size = new Size(433, 40);
+            label10.Size = new Size(384, 34);
             label10.TabIndex = 2;
             label10.Text = "Khám, chẩn đoán sớm bệnh lý chuyển hóa, gan mật, tiêu hóa với\nhệ thống xét nghiệm tự động Cobas 8000.";
             // 
@@ -2551,16 +2551,16 @@
             // 
             label9.AutoSize = true;
             label9.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold);
-            label9.Location = new Point(22, 95);
+            label9.Location = new Point(19, 81);
             label9.Name = "label9";
-            label9.Size = new Size(206, 23);
+            label9.Size = new Size(194, 21);
             label9.TabIndex = 1;
             label9.Text = "Nội tổng quát & Tầm soát";
             // 
             // pictureBox4
             // 
             pictureBox4.Image = (Image)resources.GetObject("pictureBox4.Image");
-            pictureBox4.Location = new Point(22, 32);
+            pictureBox4.Location = new Point(19, 27);
             pictureBox4.Name = "pictureBox4";
             pictureBox4.Size = new Size(48, 48);
             pictureBox4.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -2572,18 +2572,18 @@
             panel6.Controls.Add(label8);
             panel6.Controls.Add(label7);
             panel6.Dock = DockStyle.Top;
-            panel6.Location = new Point(0, 529);
+            panel6.Location = new Point(0, 449);
             panel6.Name = "panel6";
-            panel6.Size = new Size(1903, 125);
+            panel6.Size = new Size(1665, 106);
             panel6.TabIndex = 3;
             // 
             // label8
             // 
             label8.AutoSize = true;
             label8.Font = new Font("Segoe UI", 19.8000011F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label8.Location = new Point(26, 52);
+            label8.Location = new Point(23, 44);
             label8.Name = "label8";
-            label8.Size = new Size(389, 46);
+            label8.Size = new Size(342, 41);
             label8.TabIndex = 1;
             label8.Text = "Chuyên khoa mũi nhọn";
             // 
@@ -2592,9 +2592,9 @@
             label7.AutoSize = true;
             label7.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label7.ForeColor = Color.FromArgb(0, 106, 97);
-            label7.Location = new Point(26, 23);
+            label7.Location = new Point(23, 20);
             label7.Name = "label7";
-            label7.Size = new Size(190, 20);
+            label7.Size = new Size(180, 19);
             label7.TabIndex = 0;
             label7.Text = "DANH MỤC CHUYÊN SÂU";
             // 
@@ -2602,9 +2602,9 @@
             // 
             panel4.Controls.Add(siticonePanel7);
             panel4.Dock = DockStyle.Top;
-            panel4.Location = new Point(0, 397);
+            panel4.Location = new Point(0, 337);
             panel4.Name = "panel4";
-            panel4.Size = new Size(1903, 132);
+            panel4.Size = new Size(1665, 112);
             panel4.TabIndex = 1;
             // 
             // siticonePanel7
@@ -2645,7 +2645,7 @@
     0.5F,
     1F
     };
-            siticonePanel7.Location = new Point(156, 3);
+            siticonePanel7.Location = new Point(136, 3);
             siticonePanel7.Name = "siticonePanel7";
             siticonePanel7.PatternColor = Color.FromArgb(30, 0, 0, 0);
             siticonePanel7.PatternStyle = System.Drawing.Drawing2D.HatchStyle.Max;
@@ -2655,7 +2655,7 @@
             siticonePanel7.RippleMaxSize = 600F;
             siticonePanel7.RippleSpeed = 15F;
             siticonePanel7.ShowBorder = true;
-            siticonePanel7.Size = new Size(1616, 125);
+            siticonePanel7.Size = new Size(1414, 106);
             siticonePanel7.TabIndex = 7;
             siticonePanel7.TabStop = true;
             siticonePanel7.UseBorderGradient = false;
@@ -2666,7 +2666,7 @@
             // pictureBox3
             // 
             pictureBox3.Image = (Image)resources.GetObject("pictureBox3.Image");
-            pictureBox3.Location = new Point(737, 53);
+            pictureBox3.Location = new Point(645, 45);
             pictureBox3.Name = "pictureBox3";
             pictureBox3.Size = new Size(12, 12);
             pictureBox3.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -2678,19 +2678,19 @@
             label6.AutoSize = true;
             label6.Image = (Image)resources.GetObject("label6.Image");
             label6.ImageAlign = ContentAlignment.MiddleLeft;
-            label6.Location = new Point(863, 13);
+            label6.Location = new Point(755, 11);
             label6.Name = "label6";
-            label6.Size = new Size(149, 20);
+            label6.Size = new Size(134, 17);
             label6.TabIndex = 6;
             label6.Text = "     Ngày mong muốn";
             // 
             // textBox1
             // 
             textBox1.BackColor = Color.FromArgb(242, 243, 255);
-            textBox1.Location = new Point(509, 46);
+            textBox1.Location = new Point(445, 39);
             textBox1.Name = "textBox1";
             textBox1.PlaceholderText = "Nhập tên bác sĩ....";
-            textBox1.Size = new Size(250, 27);
+            textBox1.Size = new Size(219, 25);
             textBox1.TabIndex = 5;
             // 
             // label5
@@ -2698,9 +2698,9 @@
             label5.AutoSize = true;
             label5.Image = (Image)resources.GetObject("label5.Image");
             label5.ImageAlign = ContentAlignment.MiddleLeft;
-            label5.Location = new Point(509, 13);
+            label5.Location = new Point(445, 11);
             label5.Name = "label5";
-            label5.Size = new Size(133, 20);
+            label5.Size = new Size(120, 17);
             label5.TabIndex = 6;
             label5.Text = "     Bác sĩ phụ trách";
             // 
@@ -2709,9 +2709,9 @@
             comboBox1.Anchor = AnchorStyles.Left | AnchorStyles.Right;
             comboBox1.BackColor = Color.FromArgb(242, 243, 255);
             comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(173, 45);
+            comboBox1.Location = new Point(151, 38);
             comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(229, 28);
+            comboBox1.Size = new Size(201, 25);
             comboBox1.TabIndex = 0;
             comboBox1.Text = "Tất cả chuyên khoa";
             // 
@@ -2720,9 +2720,9 @@
             label4.AutoSize = true;
             label4.Image = (Image)resources.GetObject("label4.Image");
             label4.ImageAlign = ContentAlignment.MiddleLeft;
-            label4.Location = new Point(177, 13);
+            label4.Location = new Point(155, 11);
             label4.Name = "label4";
-            label4.Size = new Size(117, 20);
+            label4.Size = new Size(106, 17);
             label4.TabIndex = 6;
             label4.Text = "      Chuyên khoa";
             // 
@@ -2730,9 +2730,9 @@
             // 
             dateTimePicker1.Anchor = AnchorStyles.Left | AnchorStyles.Right;
             dateTimePicker1.Format = DateTimePickerFormat.Short;
-            dateTimePicker1.Location = new Point(861, 50);
+            dateTimePicker1.Location = new Point(753, 42);
             dateTimePicker1.Name = "dateTimePicker1";
-            dateTimePicker1.Size = new Size(229, 27);
+            dateTimePicker1.Size = new Size(201, 25);
             dateTimePicker1.TabIndex = 2;
             // 
             // button9
@@ -2743,9 +2743,9 @@
             button9.ForeColor = Color.White;
             button9.Image = (Image)resources.GetObject("button9.Image");
             button9.ImageAlign = ContentAlignment.MiddleLeft;
-            button9.Location = new Point(1315, 45);
+            button9.Location = new Point(1151, 38);
             button9.Name = "button9";
-            button9.Size = new Size(152, 40);
+            button9.Size = new Size(133, 34);
             button9.TabIndex = 3;
             button9.Text = "Tìm lich trống";
             button9.UseVisualStyleBackColor = false;
@@ -2761,13 +2761,13 @@
             panel3.Dock = DockStyle.Top;
             panel3.Location = new Point(0, 0);
             panel3.Name = "panel3";
-            panel3.Size = new Size(1903, 397);
+            panel3.Size = new Size(1665, 337);
             panel3.TabIndex = 0;
             // 
             // pictureBox2
             // 
             pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
-            pictureBox2.Location = new Point(1369, 6);
+            pictureBox2.Location = new Point(1198, 5);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(543, 401);
             pictureBox2.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -2781,9 +2781,9 @@
             button8.ForeColor = Color.White;
             button8.Image = (Image)resources.GetObject("button8.Image");
             button8.ImageAlign = ContentAlignment.MiddleLeft;
-            button8.Location = new Point(103, 219);
+            button8.Location = new Point(90, 186);
             button8.Name = "button8";
-            button8.Size = new Size(220, 57);
+            button8.Size = new Size(192, 48);
             button8.TabIndex = 2;
             button8.Text = "Đặt lịch khám ngay";
             button8.UseVisualStyleBackColor = false;
@@ -2791,9 +2791,9 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(99, 176);
+            label3.Location = new Point(87, 150);
             label3.Name = "label3";
-            label3.Size = new Size(631, 40);
+            label3.Size = new Size(557, 34);
             label3.TabIndex = 1;
             label3.Text = "EcoHealth tiên phong kết hợp y học chứng cứ hiện đại và công nghệ số y tế. Đặt lịch chính xác\ntừng phút, tư vấn trực tiếp cùng chuyên gia đầu ngành không cần xếp hàng chờ đợi.";
             // 
@@ -2801,16 +2801,16 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label2.Location = new Point(99, 85);
+            label2.Location = new Point(87, 72);
             label2.Name = "label2";
-            label2.Size = new Size(503, 76);
+            label2.Size = new Size(436, 64);
             label2.TabIndex = 1;
             label2.Text = "Chăm sóc sức khỏe toàn diện với Đội\nngũ Bác sĩ Chuyên khoa hàng đầu";
             // 
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(99, 44);
+            pictureBox1.Location = new Point(87, 37);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(282, 22);
             pictureBox1.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -2819,9 +2819,9 @@
             // 
             // FormMain
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1924, 1055);
+            ClientSize = new Size(1684, 897);
             Controls.Add(panel2);
             Controls.Add(panel1);
             Name = "FormMain";
