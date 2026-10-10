@@ -252,6 +252,7 @@
             btnLogin.Size = new Size(189, 34);
             btnLogin.TabIndex = 8;
             btnLogin.UseVisualStyleBackColor = false;
+            btnLogin.Click += btnLogin_Click;
             // 
             // label8
             // 

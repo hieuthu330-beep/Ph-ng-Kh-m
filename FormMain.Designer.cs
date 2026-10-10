@@ -2827,6 +2827,7 @@
             Name = "FormMain";
             Text = "FormMain";
             WindowState = FormWindowState.Maximized;
+            FormClosing += FormMain_FormClosing;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             panel2.ResumeLayout(false);
